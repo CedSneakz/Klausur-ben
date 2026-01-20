@@ -6,7 +6,7 @@ public class GeradeZahlenZaehler {
         
         int[] array = {3, 8, 15, 22, 9, 4};
 
-        ArrayList<Integer> geradeZahlen = new ArrayList();
+        ArrayList<Integer> geradeZahlen = new ArrayList<>();
 
       for(int i=0; i<array.length;i++){
 
