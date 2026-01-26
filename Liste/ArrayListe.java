@@ -16,7 +16,7 @@ double Durchschnitt = 0;
             System.out.println(Durchschnitt);
 
         }
-        System.out.println(Durchschnitt);
+        System.out.println(Durchschnitt/noten.length);
 
 
 }
