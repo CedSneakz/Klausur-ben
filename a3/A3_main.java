@@ -1,6 +1,6 @@
 package a3 ;
-import java.util.ArrayList ;
-import java.util.Arrays;
+import java.util.*;
+
 public class A3_main {
     public static void main ( String [] args ) {
     ArrayList < Integer > list = new ArrayList < >() ;
